@@ -40,7 +40,7 @@ header {
 .sociais {
     display: flex;
     justify-content: flex-end;
-    width: 50%;
+    width: 35%;
     padding-right: 30px;
 }
 
